@@ -66,5 +66,6 @@
   "itemGroup.materials": "§FMaterials",
   "container.inventory": "§FInventory",
   "container.enchant": "§FEnchant",
+  "gui.advancements": "§FAdvancements",
   "itemGroup.hotbar": "§FSaved Hotbars"
 }

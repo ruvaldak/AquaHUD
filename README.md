@@ -33,13 +33,13 @@ GitHub Issues is not for tech support. No exceptions.
 # Recommendations
 Ready for the cool stuff? Me too.
 
-Sodium: https://modrinth.com/mod/sodium
-Sodium Extra: https://modrinth.com/mod/sodium-extra
-Blur: https://modrinth.com/mod/blur-fabric
+ * Sodium: https://modrinth.com/mod/sodium
+ * Sodium Extra: https://modrinth.com/mod/sodium-extra
+ * Blur: https://modrinth.com/mod/blur-fabric
 
 Special instructions:
 
-Blur: In the mod's options, set Blur Radius to 32, set Gradient Start Color to 75999999, set Gradient End Color to 75555555
+ * Blur: In the mod's options, set Blur Radius to 32, set Gradient Start Color to 75999999, set Gradient End Color to 75555555
 
 # Etcetera
 

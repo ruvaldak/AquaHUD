@@ -1,0 +1,9 @@
+{
+  "modmenu.title": "Mods",
+  "modmenu.descriptionTranslation.modmenu": "Fügt ein Mod-Menü hinzu, dass die installierten Mods auflistet",
+  "modmenu.loaded": "(%s geladen)",
+  "modmenu.config": "Ändere Konfiguration",
+  "modmenu.modsFolder": "Öffne Mods-Ordner",
+  "modmenu.configsFolder": "Öffne Konfigurationen-Ordner",
+  "modmenu.configure": "Konfiguriere..."
+}

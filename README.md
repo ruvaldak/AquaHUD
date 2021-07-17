@@ -55,6 +55,7 @@ Special instructions:
 
 # Screenshots
 
+![2021-07-17_18 42 50](https://user-images.githubusercontent.com/15901769/126051017-7c89a89c-d10f-41aa-9a10-f6d963b244f8.png)
 ![2021-07-17_18 46 29](https://user-images.githubusercontent.com/15901769/126050951-7fe5d122-4a8e-44aa-860e-917523a2097c.png)
 ![2021-07-17_18 46 47](https://user-images.githubusercontent.com/15901769/126050957-6cee5df5-130f-4153-8148-ccb7e94390b4.png)
 ![2021-07-17_18 47 16](https://user-images.githubusercontent.com/15901769/126050958-3b9e41b8-48de-4ef0-b3f1-5d7f6c75cf86.png)

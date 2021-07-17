@@ -41,6 +41,7 @@ Ready for the cool stuff? Me too.
 Special instructions:
 
  * Blur
+      * set Fade Time to 10
       * set Blur Radius to 32
       * set Gradient Start Color to 75999999
       * set Gradient End Color to 75555555

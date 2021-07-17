@@ -36,10 +36,19 @@ Ready for the cool stuff? Me too.
  * Sodium: https://modrinth.com/mod/sodium
  * Sodium Extra: https://modrinth.com/mod/sodium-extra
  * Blur: https://modrinth.com/mod/blur-fabric
+ * 'Slight' Gui Modifications: https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications
 
 Special instructions:
 
- * Blur: In the mod's options, set Blur Radius to 32, set Gradient Start Color to 75999999, set Gradient End Color to 75555555
+ * Blur
+      * set Blur Radius to 32
+      * set Gradient Start Color to 75999999
+      * set Gradient End Color to 75555555
+ * 'Slight Gui Modifications
+      * Enable Tooltip Modifications
+      * set Background color to A0000000
+      * set Outline Top Color to 00000000
+      * set Outline Bottom Color to 00000000
 
 # Etcetera
 

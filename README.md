@@ -7,6 +7,8 @@ Upon installing sodium, I immediately found it rather annoying that it's user in
 # Permissions
 YOU MAY NOT REDISTRIBUTE THIS IN ANY FASHION UNLESS IT IS A DIRECT FORK TO THIS SPECIFIC GITHUB, ON GITHUB. ABOSLUTELY NO OTHER PLATFORMS MAY HOST AQUAHUD OR ANY FORK OF IT, EVER.
 
+Any and all public forks of AquaHUD must contain and use this README.md, and may only add to it, while leaving the rest of the original content intact.
+
 Now that that's clear, any usage of AquaHUD in videos, screenshots, etcetera, must be given credit and a link to AquaHUD. I will not pursue anyone who does not credit or link to AquaHUD, but I will be unhappy, and if it happens too many times I'll just make this private again. You've been warned. Be a decent human being and don't ruin it for everyone.
 
 # Pull Requests

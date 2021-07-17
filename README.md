@@ -62,6 +62,10 @@ Special instructions:
 ![2021-07-17_18 49 04](https://user-images.githubusercontent.com/15901769/126050959-95de22a4-2ec4-47b6-85bb-d6edfe28d453.png)
 ![2021-07-17_18 53 20](https://user-images.githubusercontent.com/15901769/126051002-28e5ff1b-6a3f-47b4-af73-f8bb62cc35e4.png)
 
+## Download
+If you've made it down here, congrats! You missed the downloads. So, I'm going to be nice and give you a link down here as well.
+
+https://github.com/ruvaldak/AquaHUD/releases/latest
 
 ## Etcetera
 

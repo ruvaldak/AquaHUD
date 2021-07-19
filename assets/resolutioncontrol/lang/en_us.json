@@ -1,0 +1,27 @@
+{
+  "key.categories.resolutioncontrol": "Resolution Control",
+
+  "key.resolutioncontrol.settings": "Resolution Control Settings",
+  "key.resolutioncontrol.screenshot": "Screenshot Framebuffer",
+
+  "resolutioncontrol.settings.title": "§FResolution Control",
+
+  "resolutioncontrol.settings.main": "§FMain",
+
+  "resolutioncontrol.settings.main.upscale": "§FHi-res filter:",
+  "resolutioncontrol.settings.main.downscale": "§FLo-res filter:",
+  "resolutioncontrol.settings.main.linear": "§FLinear",
+  "resolutioncontrol.settings.main.nearest": "§FNearest",
+  "resolutioncontrol.settings.main.estimate": "§FEst: %s",
+
+  "resolutioncontrol.settings.screenshot": "§FScreenshots",
+  "resolutioncontrol.settings.screenshot.overrideSize": "§FUse Set Size:",
+  "resolutioncontrol.settings.screenshot.alwaysAllocated": "§FAlways Allocated:",
+  "resolutioncontrol.settings.screenshot.size": "§FSize:",
+
+  "resolutioncontrol.settings.info": "§FInfo",
+  "resolutioncontrol.settings.info.gpu": "§FGPU:",
+  "resolutioncontrol.settings.info.maxTextureSize": "§FMax Texture Size:",
+
+  "resolutioncontrol.screenshot.wait": "§FProcessing screenshot..."
+}

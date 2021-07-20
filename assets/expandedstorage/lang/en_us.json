@@ -1,0 +1,22 @@
+{
+"container.expandedstorage.generic_double":"§FLarge %s",
+"block.expandedstorage.iron_barrel":"§FIron Barrel",
+"block.expandedstorage.gold_barrel":"§FGold Barrel",
+"block.expandedstorage.diamond_barrel":"§FDiamond Barrel",
+"block.expandedstorage.obsidian_barrel":"§FObsidian Barrel",
+"block.expandedstorage.netherite_barrel":"§FNetherite Barrel",
+"block.expandedstorage.wood_chest":"§FChest",
+"block.expandedstorage.pumpkin_chest":"§FPumpkin Chest",
+"block.expandedstorage.christmas_chest":"§FChristmas Chest",
+"block.expandedstorage.iron_chest":"§FIron Chest",
+"block.expandedstorage.gold_chest":"§FGold Chest",
+"block.expandedstorage.diamond_chest":"§FDiamond Chest",
+"block.expandedstorage.obsidian_chest":"§FObsidian Chest",
+"block.expandedstorage.netherite_chest":"§FNetherite Chest",
+"block.expandedstorage.old_diamond_chest":"§FOld Diamond Chest",
+"block.expandedstorage.old_gold_chest":"§FOld Gold Chest",
+"block.expandedstorage.old_iron_chest":"§FOld Iron Chest",
+"block.expandedstorage.old_netherite_chest":"§FOld Netherite Chest",
+"block.expandedstorage.old_obsidian_chest":"§FOld Obsidian Chest",
+"block.expandedstorage.old_wood_chest":"§FOld Chest"
+}

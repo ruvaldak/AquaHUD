@@ -54,6 +54,7 @@ Special instructions:
       * set Outline Bottom Color to 00000000
  * LibGUI (Open Mods menu -> Filter -> Libraries -> Shown)
       * Enable Dark mode.
+      * Why? Because LibGUI hardcodes damn near half of it's GUIs and I can't do anything about it.
 
 ## Screenshots
 

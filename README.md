@@ -52,6 +52,8 @@ Special instructions:
       * set Background color to A0000000
       * set Outline Top Color to 00000000
       * set Outline Bottom Color to 00000000
+ * LibGUI (Open Mods menu -> Filter -> Libraries -> Shown)
+      * Enable Dark mode.
 
 ## Screenshots
 

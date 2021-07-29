@@ -39,6 +39,8 @@ Ready for the cool stuff? Me too.
  * Sodium Extra: https://modrinth.com/mod/sodium-extra
  * Blur: https://modrinth.com/mod/blur-fabric
  * 'Slight' Gui Modifications: https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications
+ * OneBar: https://www.curseforge.com/minecraft/mc-mods/onebar
+ * Using Optifabric? Custom Background Color instead of Blur: https://modrinth.com/mod/r1ifqLkv/version/XQhFC2Zk
 
 Special instructions:
 
@@ -52,6 +54,15 @@ Special instructions:
       * set Background color to A0000000
       * set Outline Top Color to 00000000
       * set Outline Bottom Color to 00000000
+ * LibGUI (Open Mods menu -> Filter -> Libraries -> Shown)
+      * Enable Dark mode.
+      * Why? Because LibGUI hardcodes damn near half of it's GUIs and I can't do anything about it.
+ * OneBar
+      * Set background color to A0000000
+ * Custom Background Color
+      * Alpha on both start and end: 117
+      * Red, Green, and Blue on start: 153
+      * Red, Green, and Blue on end: 85
 
 ## Screenshots
 

@@ -1,11 +1,17 @@
 # AquaHUD gridless
 A simplistic, modern UI resource pack designed to complement Sodium's UI.
 
-## About Fork:
-Its aquahud but without the little squares that indicate the exact positions of slots
-
 ## About
-Upon installing sodium, I immediately found it rather annoying that it's user interface was completely different from the rest of Minecraft's. So, I took it upon myself to create a resource pack that attempts to complement Sodium's user interface in a way that makes every screen feel consistent and like it was meant to look that way. This has been in development for quite a while, so there may be some inconsistencies with some UIs, and also the various people who made Mincraft's user interface are all idiots who have no idea how to program or make texture maps.
+~~Upon installing sodium, I immediately found it rather annoying that it's user interface was completely different from the rest of Minecraft's. So, I took it upon myself to create a resource pack that attempts to complement Sodium's user interface in a way that makes every screen feel consistent and like it was meant to look that way. This has been in development for quite a while, so there may be some inconsistencies with some UIs, and also the various people who made Mincraft's user interface are all idiots who have no idea how to program or make texture maps.~~
+
+Vanilla Minecraft gui is grainy and looks like ass.\
+[I made a GUI before](https://www.planetminecraft.com/texture-pack/f53-s-gui/) but I liked the idea this pack had with matching Sodium's astehetic.\
+This fork seeks to make AquaHUD look cleaner and more like Sodium actually does.
+
+Basically
+ * no slot grid
+ * no hard exterior outlines (TODO)
+ * whatever annoys me next about it
 
 ## Permissions
 YOU MAY NOT REDISTRIBUTE THIS IN ANY FASHION UNLESS IT IS A DIRECT FORK TO THIS SPECIFIC GITHUB, ON GITHUB. ABOSLUTELY NO OTHER PLATFORMS MAY HOST AQUAHUD OR ANY FORK OF IT, EVER.
@@ -15,13 +21,16 @@ Any and all public forks of AquaHUD must contain this exact permissions section 
 Now that that's clear, any usage of AquaHUD in videos, screenshots, etcetera, must be given credit and a link to AquaHUD. I will not pursue anyone who does not credit or link to AquaHUD, but I will be unhappy, and if it happens too many times I'll just make this private again. You've been warned. Be a decent human being and don't ruin it for everyone.
 
 ## Pull Requests
-I will look at any pull request submitted to AquaHUD, but pull requests will only be considered if you:
- * Follow the general design philosophy of AquaHUD and Sodium's UI.
- * Explain your changes thoroughly
- * Explain why you think your change should be considered (i.e. what's wrong with the original, and why yours is better)
+~~I will look at any pull request submitted to AquaHUD, but pull requests will only be considered if you:
+ * ~~Follow the general design philosophy of AquaHUD and Sodium's UI.
+ * ~~Explain your changes thoroughly
+ * ~~Explain why you think your change should be considered (i.e. what's wrong with the original, and why yours is better)~~
+
+Original artist has a shit take on pull requests, send in whatever the fuck you want.
 
 ## Requirements
-The only requirement is my SemiTranslucency mod. It is supported on Forge 1.16.5 and Fabric 1.16.5, 1.17, and 1.17.1. It will not be backborted, so don't ask.
+The only requirement is Ruvaldak's SemiTranslucency mod. It is supported on Forge 1.16.5 and Fabric 1.16.5, 1.17.1, and 1.18.2\
+I am working on porting it to forge 1.17-1.19 and fabric 1.19
 
 You can get it here: https://modrinth.com/mod/semitranslucency
 
@@ -30,8 +39,14 @@ IF YOU DO NOT USE SEMITRANSLUCENCY, THE PACK WILL NOT LOOK ANYWHERE NEAR AS INTE
 ## Bugs, Errors, and Suggestions
 Use the Issues tab here on AquaHUD's GitHub. I'll immediately close anything posted on Issues that isn't:
  * Clearly explained or described
- * In some form English (Google Translate is okay)
+ * In some form of English (Google Translate is okay)
  * An actual bug, error, or suggestion.
+
+Examples of issues that will be immediately closed:
+ * How do I install fabric?
+ * What is semitranslucency?
+ * What do I do if I am using Optifine?
+     * uninstall Optifine.
 
 GitHub Issues is not for tech support. No exceptions.
 
@@ -41,9 +56,9 @@ Ready for the cool stuff? Me too.
  * Sodium: https://modrinth.com/mod/sodium
  * Sodium Extra: https://modrinth.com/mod/sodium-extra
  * Blur: https://modrinth.com/mod/blur-fabric
- * 'Slight' Gui Modifications: https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications
- * OneBar: https://www.curseforge.com/minecraft/mc-mods/onebar
- * Using Optifabric? Custom Background Color instead of Blur: https://modrinth.com/mod/r1ifqLkv/version/XQhFC2Zk
+ * 'Slight' Gui Modifications: https://modrinth.com/mod/slight-gui-modifications
+ * OneBar: https://modrinth.com/mod/onebar
+ * Using Optifabric? Eat a dick.
 
 Special instructions:
 
@@ -62,10 +77,6 @@ Special instructions:
       * Why? Because LibGUI hardcodes damn near half of it's GUIs and I can't do anything about it.
  * OneBar
       * Set background color to A0000000
- * Custom Background Color
-      * Alpha on both start and end: 117
-      * Red, Green, and Blue on start: 153
-      * Red, Green, and Blue on end: 85
 
 ## Screenshots
 
@@ -79,12 +90,9 @@ Special instructions:
 ## Download
 If you've made it down here, congrats! You missed the downloads. So, I'm going to be nice and give you a link down here as well.
 
-https://github.com/ruvaldak/AquaHUD/releases/latest
+https://github.com/CodeF53/AquaHUD/archive/refs/heads/main.zip
 
-## Etcetera
+## Donate
 
-Mod support will be added over time as it's completed.
-
-If you would like to support me, here's my rather empty Patreon: https://www.patreon.com/ruvaldak
-
-Beyond that, enjoy.
+If you would like to support the original artist, their Patreon is here https://www.patreon.com/ruvaldak\
+If you would like to support me, check out https://ko-fi.com/F53dev

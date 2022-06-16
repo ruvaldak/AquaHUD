@@ -10,7 +10,7 @@ This fork seeks to make AquaHUD look cleaner and more like Sodium actually does.
 
 Basically
  * no slot grid
- * no hard exterior outlines (TODO)
+ * no hard exterior outlines
  * whatever annoys me next about it
 
 ## Permissions
@@ -29,10 +29,7 @@ Now that that's clear, any usage of AquaHUD in videos, screenshots, etcetera, mu
 Original artist has a shit take on pull requests, send in whatever the fuck you want.
 
 ## Requirements
-The only requirement is Ruvaldak's SemiTranslucency mod. It is supported on Forge 1.16.5 and Fabric 1.16.5, 1.17.1, and 1.18.2\
-I am working on porting it to forge 1.17-1.19 and fabric 1.19
-
-You can get it here: https://modrinth.com/mod/semitranslucency
+The only requirement is [Ruvaldak's SemiTranslucency mod](https://modrinth.com/mod/semitranslucency). It is supported on Forge 1.16.5 and Fabric 1.16 - 1.19
 
 IF YOU DO NOT USE SEMITRANSLUCENCY, THE PACK WILL NOT LOOK ANYWHERE NEAR AS INTENDED. YOU WILL NOT RECEIVE ANY SUPPORT IF YOU DO NOT USE IT.
 
@@ -80,12 +77,17 @@ Special instructions:
 
 ## Screenshots
 
-![2021-07-17_18 42 50](https://user-images.githubusercontent.com/15901769/126051017-7c89a89c-d10f-41aa-9a10-f6d963b244f8.png)
-![2021-07-17_18 46 29](https://user-images.githubusercontent.com/15901769/126050951-7fe5d122-4a8e-44aa-860e-917523a2097c.png)
-![2021-07-17_18 46 47](https://user-images.githubusercontent.com/15901769/126050957-6cee5df5-130f-4153-8148-ccb7e94390b4.png)
-![2021-07-17_18 47 16](https://user-images.githubusercontent.com/15901769/126050958-3b9e41b8-48de-4ef0-b3f1-5d7f6c75cf86.png)
-![2021-07-17_18 49 04](https://user-images.githubusercontent.com/15901769/126050959-95de22a4-2ec4-47b6-85bb-d6edfe28d453.png)
-![2021-07-17_18 53 20](https://user-images.githubusercontent.com/15901769/126051002-28e5ff1b-6a3f-47b4-af73-f8bb62cc35e4.png)
+![image](https://user-images.githubusercontent.com/37855219/173998276-5b7f98bc-724b-42c0-9382-bbf285f981b3.png)
+![image](https://user-images.githubusercontent.com/37855219/173999143-821103fe-c0c5-4453-93d3-6113d4f6fe1f.png)
+![image](https://user-images.githubusercontent.com/37855219/173999236-320b0498-a812-4b89-acb5-4f7f4ff7d984.png)
+![image](https://user-images.githubusercontent.com/37855219/173999372-50b56884-5c15-4a32-83b0-a38a9fb2a49b.png)
+![image](https://user-images.githubusercontent.com/37855219/173999473-2970b686-0666-4c78-b1cd-8ab67ddf78a9.png)
+![image](https://user-images.githubusercontent.com/37855219/173999650-6d59ffab-e451-4feb-8003-0ba4b36ca171.png)
+![image](https://user-images.githubusercontent.com/37855219/173999787-088b137e-12cd-4f29-bfe0-0eeb15130b65.png)
+![image](https://user-images.githubusercontent.com/37855219/173999882-a06b7b45-e2bc-4783-b7e0-062a5c0e49a8.png)
+![image](https://user-images.githubusercontent.com/37855219/173999965-1bb0d054-4cdc-4c31-96b7-152ebe9c2635.png)
+![image](https://user-images.githubusercontent.com/37855219/174000466-eacec058-c373-4e0a-86ea-2fc4928f18ea.png)
+
 
 ## Download
 If you've made it down here, congrats! You missed the downloads. So, I'm going to be nice and give you a link down here as well.

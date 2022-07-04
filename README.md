@@ -18,17 +18,19 @@ I will look at any pull request submitted to AquaHUD, but pull requests will onl
  * Explain why you think your change should be considered (i.e. what's wrong with the original, and why yours is better)
 
 ## Requirements
-The only requirement is my SemiTranslucency mod. It is supported on Forge 1.16.5 and Fabric 1.16.5, 1.17, and 1.17.1. It will not be backborted, so don't ask.
-
-You can get it here: https://modrinth.com/mod/semitranslucency
+The only requirement is [my SemiTranslucency mod](https://modrinth.com/mod/semitranslucency). It is supported on Forge 1.16.5 and Fabric 1.16 - 1.19. It will not be backported, so don't ask.
 
 IF YOU DO NOT USE SEMITRANSLUCENCY, THE PACK WILL NOT LOOK ANYWHERE NEAR AS INTENDED. YOU WILL NOT RECEIVE ANY SUPPORT IF YOU DO NOT USE IT.
 
 ## Bugs, Errors, and Suggestions
 Use the Issues tab here on AquaHUD's GitHub. I'll immediately close anything posted on Issues that isn't:
  * Clearly explained or described
- * In some form English (Google Translate is okay)
+ * In some form of English (Google Translate is okay)
  * An actual bug, error, or suggestion.
+
+Examples of issues that will be immediately closed:
+ * How do I install fabric?
+ * What is semitranslucency?
 
 GitHub Issues is not for tech support. No exceptions.
 
@@ -38,8 +40,8 @@ Ready for the cool stuff? Me too.
  * Sodium: https://modrinth.com/mod/sodium
  * Sodium Extra: https://modrinth.com/mod/sodium-extra
  * Blur: https://modrinth.com/mod/blur-fabric
- * 'Slight' Gui Modifications: https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications
- * OneBar: https://www.curseforge.com/minecraft/mc-mods/onebar
+ * 'Slight' Gui Modifications: https://modrinth.com/mod/slight-gui-modifications
+ * OneBar: https://modrinth.com/mod/onebar
  * Using Optifabric? Custom Background Color instead of Blur: https://modrinth.com/mod/r1ifqLkv/version/XQhFC2Zk
 
 Special instructions:

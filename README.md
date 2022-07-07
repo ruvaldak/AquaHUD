@@ -53,6 +53,7 @@ Ready for the cool stuff? Me too.
  * Sodium: https://modrinth.com/mod/sodium
  * Sodium Extra: https://modrinth.com/mod/sodium-extra
  * Blur: https://modrinth.com/mod/blur-fabric
+ * Dynamic Crosshair: https://modrinth.com/mod/dynamiccrosshair
  * 'Slight' Gui Modifications: https://modrinth.com/mod/slight-gui-modifications
  * OneBar: https://modrinth.com/mod/onebar
  * Using Optifabric? Eat a dick.

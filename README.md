@@ -5,11 +5,9 @@ A simplistic, modern UI resource pack designed to complement Sodium's UI.
 Upon installing sodium, I immediately found it rather annoying that it's user interface was completely different from the rest of Minecraft's. So, I took it upon myself to create a resource pack that attempts to complement Sodium's user interface in a way that makes every screen feel consistent and like it was meant to look that way. This has been in development for quite a while, so there may be some inconsistencies with some UIs.
 
 ## Permissions
-YOU MAY NOT REDISTRIBUTE THIS IN ANY FASHION UNLESS IT IS A DIRECT FORK TO THIS SPECIFIC GITHUB, ON GITHUB. ABOSLUTELY NO OTHER PLATFORMS MAY HOST AQUAHUD OR ANY FORK OF IT, EVER.
+This project uses the CC BY-NC-ND License.
 
-Any and all public forks of AquaHUD must contain this exact permissions section of the README.md, located plainly and visibly near the top, no exceptions.
-
-Now that that's clear, any usage of AquaHUD in videos, screenshots, etcetera, must be given credit and a link to AquaHUD. I will not pursue anyone who does not credit or link to AquaHUD, but I will be unhappy, and if it happens too many times I'll just make this private again. You've been warned. Be a decent human being and don't ruin it for everyone.
+See [LICENSE.md](https://github.com/ruvaldak/AquaHUD/blob/main/LICENSE.md) for more information.
 
 ## Pull Requests
 I will look at any pull request submitted to AquaHUD, but pull requests will only be considered if you:

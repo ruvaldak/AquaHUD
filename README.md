@@ -7,7 +7,7 @@ Upon installing sodium, I immediately found it rather annoying that it's user in
 ## Permissions
 This project uses the CC BY-NC-ND License.
 
-See [LICENSE.md](https://github.com/ruvaldak/AquaHUD/blob/main/LICENSE.md) for more information.
+See [LICENSE.md](https://github.com/ruvaldak/AquaHUD/blob/main/LICENSE.md) and https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode for more information.
 
 ## Pull Requests
 I will look at any pull request submitted to AquaHUD, but pull requests will only be considered if you:

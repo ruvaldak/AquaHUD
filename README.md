@@ -7,7 +7,7 @@ AquaHUD Flat is AquaHUD but with:
  * more seperation
 
 ## About
-Upon installing sodium, I immediately found it rather annoying that it's user interface was completely different from the rest of Minecraft's. So, I took it upon myself to create a resource pack that attempts to complement Sodium's user interface in a way that makes every screen feel consistent and like it was meant to look that way. This has been in development for quite a while, so there may be some inconsistencies with some UIs, and also the various people who made Mincraft's user interface are all idiots who have no idea how to program or make texture maps.
+Upon installing sodium, I immediately found it rather annoying that it's user interface was completely different from the rest of Minecraft's. So, I took it upon myself to create a resource pack that attempts to complement Sodium's user interface in a way that makes every screen feel consistent and like it was meant to look that way. This has been in development for quite a while, so there may be some inconsistencies with some UIs.
 
 ## Permissions
 YOU MAY NOT REDISTRIBUTE THIS IN ANY FASHION UNLESS IT IS A DIRECT FORK TO THIS SPECIFIC GITHUB, ON GITHUB. ABOSLUTELY NO OTHER PLATFORMS MAY HOST AQUAHUD OR ANY FORK OF IT, EVER.
@@ -73,12 +73,13 @@ Special instructions:
 
 ## Screenshots
 
-![2021-07-17_18 42 50](https://user-images.githubusercontent.com/15901769/126051017-7c89a89c-d10f-41aa-9a10-f6d963b244f8.png)
-![2021-07-17_18 46 29](https://user-images.githubusercontent.com/15901769/126050951-7fe5d122-4a8e-44aa-860e-917523a2097c.png)
-![2021-07-17_18 46 47](https://user-images.githubusercontent.com/15901769/126050957-6cee5df5-130f-4153-8148-ccb7e94390b4.png)
-![2021-07-17_18 47 16](https://user-images.githubusercontent.com/15901769/126050958-3b9e41b8-48de-4ef0-b3f1-5d7f6c75cf86.png)
-![2021-07-17_18 49 04](https://user-images.githubusercontent.com/15901769/126050959-95de22a4-2ec4-47b6-85bb-d6edfe28d453.png)
-![2021-07-17_18 53 20](https://user-images.githubusercontent.com/15901769/126051002-28e5ff1b-6a3f-47b4-af73-f8bb62cc35e4.png)
+![image](https://user-images.githubusercontent.com/37855219/173999143-821103fe-c0c5-4453-93d3-6113d4f6fe1f.png)
+![image](https://user-images.githubusercontent.com/37855219/173999236-320b0498-a812-4b89-acb5-4f7f4ff7d984.png)
+![image](https://user-images.githubusercontent.com/37855219/173999473-2970b686-0666-4c78-b1cd-8ab67ddf78a9.png)
+![image](https://user-images.githubusercontent.com/37855219/173999650-6d59ffab-e451-4feb-8003-0ba4b36ca171.png)
+![image](https://user-images.githubusercontent.com/37855219/173999787-088b137e-12cd-4f29-bfe0-0eeb15130b65.png)
+![image](https://user-images.githubusercontent.com/37855219/173999882-a06b7b45-e2bc-4783-b7e0-062a5c0e49a8.png)
+![image](https://user-images.githubusercontent.com/37855219/173999965-1bb0d054-4cdc-4c31-96b7-152ebe9c2635.png)
 
 ## Download
 If you've made it down here, congrats! You missed the downloads. So, I'm going to be nice and give you a link down here as well.

@@ -1,11 +1,11 @@
 # AquaHUD/Flat
 A simplistic, modern UI resource pack designed to match Sodium's UI.
 
+## What makes AquaHUD/Flat different from normal AquaHUD?
 AquaHUD Flat is AquaHUD but with:
  * no grids
  * no hard exterior outlines
- * more seperation
- * much closer design language to that of Sodium
+ * more seperation between elements
 
 ## About
 Upon installing sodium, I immediately found it rather annoying that it's user interface was completely different from the rest of Minecraft's. So, I took it upon myself to create a resource pack that attempts to complement Sodium's user interface in a way that makes every screen feel consistent and like it was meant to look that way. This has been in development for quite a while, so there may be some inconsistencies with some UIs.

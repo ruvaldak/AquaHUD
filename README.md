@@ -4,6 +4,12 @@ A simplistic, modern UI resource pack designed to complement Sodium's UI.
 ## About
 Upon installing sodium, I immediately found it rather annoying that it's user interface was completely different from the rest of Minecraft's. So, I took it upon myself to create a resource pack that attempts to complement Sodium's user interface in a way that makes every screen feel consistent and like it was meant to look that way. This has been in development for quite a while, so there may be some inconsistencies with some UIs.
 
+## Want something more faithful to sodium's style?
+[AquaHUD Flat](https://modrinth.com/resourcepack/aquahud-flat) is AquaHUD but with:
+ * no grids
+ * no hard exterior outlines
+ * more seperation between elements
+
 ## Permissions
 This project uses the CC BY-NC-ND License.
 

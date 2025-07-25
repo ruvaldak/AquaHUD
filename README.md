@@ -11,7 +11,7 @@ Upon installing sodium, I immediately found it rather annoying that it's user in
  * more seperation between elements
 
 ## Permissions
-MIT.
+do whatever, i dont care
 
 ## Requirements
 The only requirement is my [TranslucencyFix](https://modrinth.com/mod/translucencyfix) mod.

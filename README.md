@@ -11,32 +11,10 @@ Upon installing sodium, I immediately found it rather annoying that it's user in
  * more seperation between elements
 
 ## Permissions
-This project uses the CC BY-NC-ND License.
-
-See [LICENSE.md](https://github.com/ruvaldak/AquaHUD/blob/main/LICENSE.md) and https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode for more information.
-
-## Pull Requests
-I will look at any pull request submitted to AquaHUD, but pull requests will only be considered if you:
- * Follow the general design philosophy of AquaHUD and Sodium's UI.
- * Explain your changes thoroughly
- * Explain why you think your change should be considered (i.e. what's wrong with the original, and why yours is better)
+MIT.
 
 ## Requirements
-The only requirement is [my SemiTranslucency mod](https://modrinth.com/mod/semitranslucency). It is supported on Forge 1.16.5 and Fabric 1.16 - 1.19. It will not be backported, so don't ask.
-
-IF YOU DO NOT USE SEMITRANSLUCENCY, THE PACK WILL NOT LOOK ANYWHERE NEAR AS INTENDED. YOU WILL NOT RECEIVE ANY SUPPORT IF YOU DO NOT USE IT.
-
-## Bugs, Errors, and Suggestions
-Use the Issues tab here on AquaHUD's GitHub. I'll immediately close anything posted on Issues that isn't:
- * Clearly explained or described
- * In some form of English (Google Translate is okay)
- * An actual bug, error, or suggestion.
-
-Examples of issues that will be immediately closed:
- * How do I install fabric?
- * What is semitranslucency?
-
-GitHub Issues is not for tech support. No exceptions.
+The only requirement is my [TranslucencyFix](https://modrinth.com/mod/translucencyfix) mod.
 
 ## Recommendations
 Ready for the cool stuff? Me too.
@@ -83,11 +61,3 @@ Special instructions:
 If you've made it down here, congrats! You missed the downloads. So, I'm going to be nice and give you a link down here as well.
 
 https://github.com/ruvaldak/AquaHUD/releases/latest
-
-## Etcetera
-
-Mod support will be added over time as it's completed.
-
-If you would like to support me, here's my rather empty Patreon: https://www.patreon.com/ruvaldak
-
-Beyond that, enjoy.
